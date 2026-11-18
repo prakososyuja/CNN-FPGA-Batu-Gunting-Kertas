@@ -1,7 +1,0 @@
-f1=7
-sh1=9
-f2=8
-maks_pool=61455
-akurasi_python_float=82.53
-akurasi_python_integer=82.80
-kesesuaian_int_vs_float=97.04
