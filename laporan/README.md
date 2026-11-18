@@ -1,8 +1,5 @@
 # Implementasi CNN Pengenalan Angka (MNIST) pada Verilog & Python
 
-**Mata Kuliah:** Desain SoC dan FPGA  
-**Nama:** Prakoso Syujawanto  
-**NIM:** 101022300287  
 
 ---
 
